@@ -1,0 +1,47 @@
+{
+    "current": {
+        "feelslike_c": 20,
+        "feelslike_f": 68,
+        "wind_degree": 273,
+        "windchill_f": 72.8,
+        "windchill_c": 22.6,
+        "last_updated_epoch": 1751016600,
+        "temp_c": 20,
+        "temp_f": 68,
+        "cloud": 25,
+        "wind_kph": 14.8,
+        "wind_mph": 9.2,
+        "humidity": 53,
+        "dewpoint_f": 41.7,
+        "uv": 4.4,
+        "last_updated": "2025-06-27 11:30",
+        "heatindex_f": 74.7,
+        "dewpoint_c": 5.4,
+        "is_day": 1,
+        "precip_in": 0,
+        "heatindex_c": 23.7,
+        "wind_dir": "W",
+        "gust_mph": 10.6,
+        "pressure_in": 29.65,
+        "gust_kph": 17,
+        "precip_mm": 0,
+        "condition": {
+            "code": 1000,
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+            "text": "Sunny"
+        },
+        "vis_km": 10,
+        "pressure_mb": 1004,
+        "vis_miles": 6
+    },
+    "location": {
+        "localtime": "2025-06-27 11:40",
+        "country": "Norway",
+        "localtime_epoch": 1751017230,
+        "name": "Oslo",
+        "lon": 10.75,
+        "region": "Oslo",
+        "lat": 59.9167,
+        "tz_id": "Europe/Oslo"
+    }
+}

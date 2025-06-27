@@ -1,0 +1,47 @@
+{
+    "current": {
+        "feelslike_c": 31.9,
+        "feelslike_f": 89.5,
+        "wind_degree": 222,
+        "windchill_f": 84.2,
+        "windchill_c": 29,
+        "last_updated_epoch": 1751016600,
+        "temp_c": 30.1,
+        "temp_f": 86.2,
+        "cloud": 0,
+        "wind_kph": 14.4,
+        "wind_mph": 8.9,
+        "humidity": 49,
+        "dewpoint_f": 64.6,
+        "uv": 5.5,
+        "last_updated": "2025-06-27 11:30",
+        "heatindex_f": 86.5,
+        "dewpoint_c": 18.1,
+        "is_day": 1,
+        "precip_in": 0,
+        "heatindex_c": 30.3,
+        "wind_dir": "SW",
+        "gust_mph": 11.2,
+        "pressure_in": 30.18,
+        "gust_kph": 18,
+        "precip_mm": 0,
+        "condition": {
+            "code": 1000,
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+            "text": "Sunny"
+        },
+        "vis_km": 10,
+        "pressure_mb": 1022,
+        "vis_miles": 6
+    },
+    "location": {
+        "localtime": "2025-06-27 11:30",
+        "country": "Spain",
+        "localtime_epoch": 1751016631,
+        "name": "Barcelona",
+        "lon": 2.1833,
+        "region": "Catalonia",
+        "lat": 41.3833,
+        "tz_id": "Europe/Madrid"
+    }
+}

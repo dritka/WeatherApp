@@ -1,0 +1,47 @@
+{
+    "current": {
+        "feelslike_c": 32.3,
+        "feelslike_f": 90.1,
+        "wind_degree": 351,
+        "windchill_f": 89.7,
+        "windchill_c": 32,
+        "last_updated_epoch": 1751016600,
+        "temp_c": 30.2,
+        "temp_f": 86.4,
+        "cloud": 25,
+        "wind_kph": 14.4,
+        "wind_mph": 8.9,
+        "humidity": 70,
+        "dewpoint_f": 70.3,
+        "uv": 1,
+        "last_updated": "2025-06-27 16:30",
+        "heatindex_f": 96.1,
+        "dewpoint_c": 21.3,
+        "is_day": 1,
+        "precip_in": 0,
+        "heatindex_c": 35.6,
+        "wind_dir": "N",
+        "gust_mph": 10.3,
+        "pressure_in": 29.77,
+        "gust_kph": 16.6,
+        "precip_mm": 0,
+        "condition": {
+            "code": 1000,
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+            "text": "Sunny"
+        },
+        "vis_km": 8,
+        "pressure_mb": 1008,
+        "vis_miles": 4
+    },
+    "location": {
+        "localtime": "2025-06-27 16:40",
+        "country": "Indonesia",
+        "localtime_epoch": 1751017230,
+        "name": "Jakarta",
+        "lon": 106.8451,
+        "region": "Jakarta Raya",
+        "lat": -6.2146,
+        "tz_id": "Asia/Jakarta"
+    }
+}
