@@ -75,6 +75,12 @@ class ApiHandlerTest {
         assertTrue(Files.exists(p));
     }
 
+//    @Test
+//    public void isApiKeySetCorreclty() {
+//        String actual = System.getenv("API_KEY");
+//        assertEquals(actual, "14e81ae19442478db80164223252606");
+//    }
+
     @org.junit.jupiter.api.AfterEach
     public void tearDown() {
         testNum++;

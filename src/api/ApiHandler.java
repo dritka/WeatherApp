@@ -2,7 +2,6 @@ package api;
 
 import java.io.*;
 import java.net.*;
-import java.sql.SQLOutput;
 import java.util.*;
 import java.nio.file.*;
 
@@ -12,10 +11,10 @@ import javax.json.*;
 public class ApiHandler {
 
     private static final String website = "http://api.weatherapi.com/v1";
-    private static final String apiKey = System.getenv("API_KEY");
+    private static String apiKey = "";
 
     public static void main(String[] args) throws IOException {
-        
+
     }
 
     /*

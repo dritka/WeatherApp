@@ -36,7 +36,7 @@ public class ExampleGui extends JFrame {
         formPanel.add(passwordLabel, 2);
         formPanel.add(passwordField, 3);
 
-        JPanel buttonPanel = new JPanel(new GridLayout(1, 2, 10, 10));
+        JPanel buttonPanel = new JPanel(new GridLayout(2, 1, 10, 10));
         buttonPanel.add(loginButton, 0);
         buttonPanel.add(signupButton, 1);
 
