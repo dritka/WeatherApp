@@ -1,0 +1,47 @@
+{
+    "current": {
+        "feelslike_c": 24.2,
+        "feelslike_f": 75.6,
+        "wind_degree": 283,
+        "windchill_f": 74.5,
+        "windchill_c": 23.6,
+        "last_updated_epoch": 1751017500,
+        "temp_c": 22.4,
+        "temp_f": 72.3,
+        "cloud": 50,
+        "wind_kph": 26.3,
+        "wind_mph": 16.3,
+        "humidity": 50,
+        "dewpoint_f": 49.8,
+        "uv": 4.3,
+        "last_updated": "2025-06-27 11:45",
+        "heatindex_f": 76.4,
+        "dewpoint_c": 9.9,
+        "is_day": 1,
+        "precip_in": 0,
+        "heatindex_c": 24.7,
+        "wind_dir": "WNW",
+        "gust_mph": 18.8,
+        "pressure_in": 30.03,
+        "gust_kph": 30.2,
+        "precip_mm": 0,
+        "condition": {
+            "code": 1003,
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/116.png",
+            "text": "Partly cloudy"
+        },
+        "vis_km": 10,
+        "pressure_mb": 1017,
+        "vis_miles": 6
+    },
+    "location": {
+        "localtime": "2025-06-27 11:47",
+        "country": "Germany",
+        "localtime_epoch": 1751017652,
+        "name": "Berlin",
+        "lon": 13.4,
+        "region": "Berlin",
+        "lat": 52.5167,
+        "tz_id": "Europe/Berlin"
+    }
+}

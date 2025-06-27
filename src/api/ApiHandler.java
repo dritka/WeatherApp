@@ -12,11 +12,10 @@ import javax.json.*;
 public class ApiHandler {
 
     private static final String website = "http://api.weatherapi.com/v1";
-    private static final String apiKey = "";
+    private static final String apiKey = System.getenv("API_KEY");
 
-    public static void main(String[] args) {
-        String city = "Imaginary";
-        // Map<Enum, String> data = fetchWeatherData(city);
+    public static void main(String[] args) throws IOException {
+        readAllData("Berlin");
     }
 
     /*
