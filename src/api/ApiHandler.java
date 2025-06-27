@@ -11,11 +11,7 @@ import javax.json.*;
 public class ApiHandler {
 
     private static final String website = "http://api.weatherapi.com/v1";
-    private static String apiKey = "";
-
-    public static void main(String[] args) throws IOException {
-
-    }
+    private static final String apiKey = System.getenv("API_KEY");
 
     /*
     This functions fetches all the data
