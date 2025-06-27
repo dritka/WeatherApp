@@ -12,7 +12,7 @@ import javax.json.*;
 public class ApiHandler {
 
     private static final String website = "http://api.weatherapi.com/v1";
-    private static final String apiKey = "14e81ae19442478db80164223252606";
+    private static final String apiKey = "";
 
     public static void main(String[] args) {
         String city = "Imaginary";
