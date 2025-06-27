@@ -15,7 +15,7 @@ public class ApiHandler {
     private static final String apiKey = System.getenv("API_KEY");
 
     public static void main(String[] args) throws IOException {
-        readAllData("Berlin");
+        
     }
 
     /*
